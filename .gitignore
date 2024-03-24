@@ -47,3 +47,9 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# MacOS Trash
+.DS_Store
+
+# kaggle dataset
+waterQuality1.csv
