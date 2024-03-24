@@ -53,3 +53,6 @@ rsconnect/
 
 # kaggle dataset
 waterQuality1.csv
+
+# Kaggle API token
+kaggle.json
